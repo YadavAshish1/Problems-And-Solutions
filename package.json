@@ -1,0 +1,19 @@
+{
+  "name": "problems-and-solutions",
+  "version": "1.0.0",
+  "description": "Here Listing the DSA problems with respective solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadavAshish1/Problems-And-Solutions.git"
+  },
+  "author": "Ashish Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YadavAshish1/Problems-And-Solutions/issues"
+  },
+  "homepage": "https://github.com/YadavAshish1/Problems-And-Solutions#readme"
+}
